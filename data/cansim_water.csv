@@ -1,0 +1,541 @@
+Ref_Date,GEO,WATER,Vector,Coordinate,Value
+2005,Newfoundland and Labrador,Water intake,v52461246,1.1,85.2
+2007,Newfoundland and Labrador,Water intake,v52461246,1.1,63.7
+2009,Newfoundland and Labrador,Water intake,v52461246,1.1,F
+2011,Newfoundland and Labrador,Water intake,v52461246,1.1,16.1
+2013,Newfoundland and Labrador,Water intake,v52461246,1.1,19.0
+2005,Newfoundland and Labrador,Water recirculation,v52461247,1.2,F
+2007,Newfoundland and Labrador,Water recirculation,v52461247,1.2,x
+2009,Newfoundland and Labrador,Water recirculation,v52461247,1.2,F
+2011,Newfoundland and Labrador,Water recirculation,v52461247,1.2,0.1
+2013,Newfoundland and Labrador,Water recirculation,v52461247,1.2,0.2
+2005,Newfoundland and Labrador,Water discharge,v52461248,1.3,79.8
+2007,Newfoundland and Labrador,Water discharge,v52461248,1.3,63.1
+2009,Newfoundland and Labrador,Water discharge,v52461248,1.3,F
+2011,Newfoundland and Labrador,Water discharge,v52461248,1.3,16.1
+2013,Newfoundland and Labrador,Water discharge,v52461248,1.3,18.8
+2005,Prince Edward Island,Water intake,v52461249,2.1,F
+2007,Prince Edward Island,Water intake,v52461249,2.1,x
+2009,Prince Edward Island,Water intake,v52461249,2.1,F
+2011,Prince Edward Island,Water intake,v52461249,2.1,9.2
+2013,Prince Edward Island,Water intake,v52461249,2.1,13.1
+2005,Prince Edward Island,Water recirculation,v52461250,2.2,0.0
+2007,Prince Edward Island,Water recirculation,v52461250,2.2,x
+2009,Prince Edward Island,Water recirculation,v52461250,2.2,F
+2011,Prince Edward Island,Water recirculation,v52461250,2.2,2.0
+2013,Prince Edward Island,Water recirculation,v52461250,2.2,x
+2005,Prince Edward Island,Water discharge,v52461251,2.3,F
+2007,Prince Edward Island,Water discharge,v52461251,2.3,x
+2009,Prince Edward Island,Water discharge,v52461251,2.3,F
+2011,Prince Edward Island,Water discharge,v52461251,2.3,9.0
+2013,Prince Edward Island,Water discharge,v52461251,2.3,13.1
+2005,Nova Scotia,Water intake,v52461252,3.1,136.4
+2007,Nova Scotia,Water intake,v52461252,3.1,153.3
+2009,Nova Scotia,Water intake,v52461252,3.1,179.3
+2011,Nova Scotia,Water intake,v52461252,3.1,139.9
+2013,Nova Scotia,Water intake,v52461252,3.1,154.3
+2005,Nova Scotia,Water recirculation,v52461253,3.2,33.3
+2007,Nova Scotia,Water recirculation,v52461253,3.2,79.4
+2009,Nova Scotia,Water recirculation,v52461253,3.2,94.1
+2011,Nova Scotia,Water recirculation,v52461253,3.2,15.0
+2013,Nova Scotia,Water recirculation,v52461253,3.2,x
+2005,Nova Scotia,Water discharge,v52461254,3.3,102.2
+2007,Nova Scotia,Water discharge,v52461254,3.3,140.6
+2009,Nova Scotia,Water discharge,v52461254,3.3,168.7
+2011,Nova Scotia,Water discharge,v52461254,3.3,123.9
+2013,Nova Scotia,Water discharge,v52461254,3.3,130.2
+2005,New Brunswick,Water intake,v52461255,4.1,205.2
+2007,New Brunswick,Water intake,v52461255,4.1,186.3
+2009,New Brunswick,Water intake,v52461255,4.1,169.2
+2011,New Brunswick,Water intake,v52461255,4.1,191.1
+2013,New Brunswick,Water intake,v52461255,4.1,204.9
+2005,New Brunswick,Water recirculation,v52461256,4.2,175.6
+2007,New Brunswick,Water recirculation,v52461256,4.2,92.1
+2009,New Brunswick,Water recirculation,v52461256,4.2,69.3
+2011,New Brunswick,Water recirculation,v52461256,4.2,63.7
+2013,New Brunswick,Water recirculation,v52461256,4.2,x
+2005,New Brunswick,Water discharge,v52461257,4.3,200.5
+2007,New Brunswick,Water discharge,v52461257,4.3,169.7
+2009,New Brunswick,Water discharge,v52461257,4.3,162.9
+2011,New Brunswick,Water discharge,v52461257,4.3,185.7
+2013,New Brunswick,Water discharge,v52461257,4.3,195.3
+2005,Quebec,Water intake,v52461258,5.1,1263.2
+2007,Quebec,Water intake,v52461258,5.1,1027.3
+2009,Quebec,Water intake,v52461258,5.1,983.7
+2011,Quebec,Water intake,v52461258,5.1,842.1
+2013,Quebec,Water intake,v52461258,5.1,915.0
+2005,Quebec,Water recirculation,v52461259,5.2,786.0
+2007,Quebec,Water recirculation,v52461259,5.2,592.9
+2009,Quebec,Water recirculation,v52461259,5.2,590.9
+2011,Quebec,Water recirculation,v52461259,5.2,473.0
+2013,Quebec,Water recirculation,v52461259,5.2,710.6
+2005,Quebec,Water discharge,v52461260,5.3,1178.9
+2007,Quebec,Water discharge,v52461260,5.3,996.1
+2009,Quebec,Water discharge,v52461260,5.3,934.3
+2011,Quebec,Water discharge,v52461260,5.3,774.1
+2013,Quebec,Water discharge,v52461260,5.3,892.3
+2005,Ontario,Water intake,v52461261,6.1,2676.5
+2007,Ontario,Water intake,v52461261,6.1,1799.9
+2009,Ontario,Water intake,v52461261,6.1,1498.2
+2011,Ontario,Water intake,v52461261,6.1,1495.7
+2013,Ontario,Water intake,v52461261,6.1,1547.4
+2005,Ontario,Water recirculation,v52461262,6.2,1377.9
+2007,Ontario,Water recirculation,v52461262,6.2,1289.0
+2009,Ontario,Water recirculation,v52461262,6.2,877.0
+2011,Ontario,Water recirculation,v52461262,6.2,960.1
+2013,Ontario,Water recirculation,v52461262,6.2,1336.8
+2005,Ontario,Water discharge,v52461263,6.3,2345.3
+2007,Ontario,Water discharge,v52461263,6.3,1613.9
+2009,Ontario,Water discharge,v52461263,6.3,1348.5
+2011,Ontario,Water discharge,v52461263,6.3,1279.4
+2013,Ontario,Water discharge,v52461263,6.3,1343.8
+2005,Manitoba,Water intake,v52461264,7.1,60.2
+2007,Manitoba,Water intake,v52461264,7.1,118.7
+2009,Manitoba,Water intake,v52461264,7.1,88.2
+2011,Manitoba,Water intake,v52461264,7.1,95.9
+2013,Manitoba,Water intake,v52461264,7.1,56.7
+2005,Manitoba,Water recirculation,v52461265,7.2,20.5
+2007,Manitoba,Water recirculation,v52461265,7.2,x
+2009,Manitoba,Water recirculation,v52461265,7.2,161.8
+2011,Manitoba,Water recirculation,v52461265,7.2,104.0
+2013,Manitoba,Water recirculation,v52461265,7.2,30.1
+2005,Manitoba,Water discharge,v52461266,7.3,50.1
+2007,Manitoba,Water discharge,v52461266,7.3,109.4
+2009,Manitoba,Water discharge,v52461266,7.3,81.5
+2011,Manitoba,Water discharge,v52461266,7.3,76.2
+2013,Manitoba,Water discharge,v52461266,7.3,50.1
+2005,Saskatchewan,Water intake,v52461267,8.1,60.1
+2007,Saskatchewan,Water intake,v52461267,8.1,21.8
+2009,Saskatchewan,Water intake,v52461267,8.1,17.3
+2011,Saskatchewan,Water intake,v52461267,8.1,x
+2013,Saskatchewan,Water intake,v52461267,8.1,17.8
+2005,Saskatchewan,Water recirculation,v52461268,8.2,6.4
+2007,Saskatchewan,Water recirculation,v52461268,8.2,x
+2009,Saskatchewan,Water recirculation,v52461268,8.2,4.2
+2011,Saskatchewan,Water recirculation,v52461268,8.2,7.2
+2013,Saskatchewan,Water recirculation,v52461268,8.2,13.2
+2005,Saskatchewan,Water discharge,v52461269,8.3,48.0
+2007,Saskatchewan,Water discharge,v52461269,8.3,14.1
+2009,Saskatchewan,Water discharge,v52461269,8.3,9.3
+2011,Saskatchewan,Water discharge,v52461269,8.3,x
+2013,Saskatchewan,Water discharge,v52461269,8.3,7.8
+2005,Alberta,Water intake,v52461270,9.1,283.7
+2007,Alberta,Water intake,v52461270,9.1,364.6
+2009,Alberta,Water intake,v52461270,9.1,274.2
+2011,Alberta,Water intake,v52461270,9.1,207.7
+2013,Alberta,Water intake,v52461270,9.1,279.8
+2005,Alberta,Water recirculation,v52461271,9.2,380.8
+2007,Alberta,Water recirculation,v52461271,9.2,304.8
+2009,Alberta,Water recirculation,v52461271,9.2,83.8
+2011,Alberta,Water recirculation,v52461271,9.2,84.7
+2013,Alberta,Water recirculation,v52461271,9.2,143.3
+2005,Alberta,Water discharge,v52461272,9.3,205.7
+2007,Alberta,Water discharge,v52461272,9.3,270.0
+2009,Alberta,Water discharge,v52461272,9.3,205.7
+2011,Alberta,Water discharge,v52461272,9.3,147.4
+2013,Alberta,Water discharge,v52461272,9.3,209.4
+2005,British Columbia,Water intake,v52461273,10.1,946.6
+2007,British Columbia,Water intake,v52461273,10.1,832.0
+2009,British Columbia,Water intake,v52461273,10.1,682.2
+2011,British Columbia,Water intake,v52461273,10.1,775.1
+2013,British Columbia,Water intake,v52461273,10.1,747.8
+2005,British Columbia,Water recirculation,v52461274,10.2,375.4
+2007,British Columbia,Water recirculation,v52461274,10.2,252.3
+2009,British Columbia,Water recirculation,v52461274,10.2,x
+2011,British Columbia,Water recirculation,v52461274,10.2,294.7
+2013,British Columbia,Water recirculation,v52461274,10.2,243.5
+2005,British Columbia,Water discharge,v52461275,10.3,857.8
+2007,British Columbia,Water discharge,v52461275,10.3,739.4
+2009,British Columbia,Water discharge,v52461275,10.3,615.2
+2011,British Columbia,Water discharge,v52461275,10.3,723.3
+2013,British Columbia,Water discharge,v52461275,10.3,684.5
+2005,"Yukon, Northwest Territories and Nunavut",Water intake,v52461276,11.1,2.2
+2007,"Yukon, Northwest Territories and Nunavut",Water intake,v52461276,11.1,x
+2009,"Yukon, Northwest Territories and Nunavut",Water intake,v52461276,11.1,0.0
+2011,"Yukon, Northwest Territories and Nunavut",Water intake,v52461276,11.1,x
+2013,"Yukon, Northwest Territories and Nunavut",Water intake,v52461276,11.1,0.0
+2005,"Yukon, Northwest Territories and Nunavut",Water recirculation,v52461277,11.2,0.0
+2007,"Yukon, Northwest Territories and Nunavut",Water recirculation,v52461277,11.2,x
+2009,"Yukon, Northwest Territories and Nunavut",Water recirculation,v52461277,11.2,x
+2011,"Yukon, Northwest Territories and Nunavut",Water recirculation,v52461277,11.2,0.0
+2013,"Yukon, Northwest Territories and Nunavut",Water recirculation,v52461277,11.2,x
+2005,"Yukon, Northwest Territories and Nunavut",Water discharge,v52461278,11.3,1.0
+2007,"Yukon, Northwest Territories and Nunavut",Water discharge,v52461278,11.3,x
+2009,"Yukon, Northwest Territories and Nunavut",Water discharge,v52461278,11.3,0.0
+2011,"Yukon, Northwest Territories and Nunavut",Water discharge,v52461278,11.3,x
+2013,"Yukon, Northwest Territories and Nunavut",Water discharge,v52461278,11.3,0.0
+2005,Pacific coastal drainage region,Water intake,v52461279,12.1,433.3
+2007,Pacific coastal drainage region,Water intake,v52461279,12.1,368.5
+2009,Pacific coastal drainage region,Water intake,v52461279,12.1,249.2
+2011,Pacific coastal drainage region,Water intake,v52461279,12.1,289.1
+2013,Pacific coastal drainage region,Water intake,v52461279,12.1,315.4
+2005,Pacific coastal drainage region,Water recirculation,v52461280,12.2,129.6
+2007,Pacific coastal drainage region,Water recirculation,v52461280,12.2,63.3
+2009,Pacific coastal drainage region,Water recirculation,v52461280,12.2,x
+2011,Pacific coastal drainage region,Water recirculation,v52461280,12.2,x
+2013,Pacific coastal drainage region,Water recirculation,v52461280,12.2,26.7
+2005,Pacific coastal drainage region,Water discharge,v52461281,12.3,393.9
+2007,Pacific coastal drainage region,Water discharge,v52461281,12.3,332.5
+2009,Pacific coastal drainage region,Water discharge,v52461281,12.3,230.6
+2011,Pacific coastal drainage region,Water discharge,v52461281,12.3,280.6
+2013,Pacific coastal drainage region,Water discharge,v52461281,12.3,298.9
+2005,Fraser - Lower Mainland drainage region,Water intake,v52461282,13.1,293.5
+2007,Fraser - Lower Mainland drainage region,Water intake,v52461282,13.1,213.5
+2009,Fraser - Lower Mainland drainage region,Water intake,v52461282,13.1,239.5
+2011,Fraser - Lower Mainland drainage region,Water intake,v52461282,13.1,305.9
+2013,Fraser - Lower Mainland drainage region,Water intake,v52461282,13.1,259.6
+2005,Fraser - Lower Mainland drainage region,Water recirculation,v52461283,13.2,215.7
+2007,Fraser - Lower Mainland drainage region,Water recirculation,v52461283,13.2,167.4
+2009,Fraser - Lower Mainland drainage region,Water recirculation,v52461283,13.2,125.3
+2011,Fraser - Lower Mainland drainage region,Water recirculation,v52461283,13.2,221.0
+2013,Fraser - Lower Mainland drainage region,Water recirculation,v52461283,13.2,187.1
+2005,Fraser - Lower Mainland drainage region,Water discharge,v52461284,13.3,259.8
+2007,Fraser - Lower Mainland drainage region,Water discharge,v52461284,13.3,184.0
+2009,Fraser - Lower Mainland drainage region,Water discharge,v52461284,13.3,199.5
+2011,Fraser - Lower Mainland drainage region,Water discharge,v52461284,13.3,267.2
+2013,Fraser - Lower Mainland drainage region,Water discharge,v52461284,13.3,227.5
+2005,Okanagan - Similkameen drainage region,Water intake,v52461285,14.1,1.1
+2007,Okanagan - Similkameen drainage region,Water intake,v52461285,14.1,9.2
+2009,Okanagan - Similkameen drainage region,Water intake,v52461285,14.1,3.5
+2011,Okanagan - Similkameen drainage region,Water intake,v52461285,14.1,0.7
+2013,Okanagan - Similkameen drainage region,Water intake,v52461285,14.1,3.4
+2005,Okanagan - Similkameen drainage region,Water recirculation,v52461286,14.2,0.1
+2007,Okanagan - Similkameen drainage region,Water recirculation,v52461286,14.2,0.1
+2009,Okanagan - Similkameen drainage region,Water recirculation,v52461286,14.2,F
+2011,Okanagan - Similkameen drainage region,Water recirculation,v52461286,14.2,x
+2013,Okanagan - Similkameen drainage region,Water recirculation,v52461286,14.2,x
+2005,Okanagan - Similkameen drainage region,Water discharge,v52461287,14.3,0.7
+2007,Okanagan - Similkameen drainage region,Water discharge,v52461287,14.3,3.9
+2009,Okanagan - Similkameen drainage region,Water discharge,v52461287,14.3,1.5
+2011,Okanagan - Similkameen drainage region,Water discharge,v52461287,14.3,0.4
+2013,Okanagan - Similkameen drainage region,Water discharge,v52461287,14.3,2.6
+2005,Columbia drainage region,Water intake,v52461288,15.1,181.8
+2007,Columbia drainage region,Water intake,v52461288,15.1,195.5
+2009,Columbia drainage region,Water intake,v52461288,15.1,182.8
+2011,Columbia drainage region,Water intake,v52461288,15.1,153.3
+2013,Columbia drainage region,Water intake,v52461288,15.1,x
+2005,Columbia drainage region,Water recirculation,v52461289,15.2,x
+2007,Columbia drainage region,Water recirculation,v52461289,15.2,x
+2009,Columbia drainage region,Water recirculation,v52461289,15.2,F
+2011,Columbia drainage region,Water recirculation,v52461289,15.2,x
+2013,Columbia drainage region,Water recirculation,v52461289,15.2,x
+2005,Columbia drainage region,Water discharge,v52461290,15.3,175.0
+2007,Columbia drainage region,Water discharge,v52461290,15.3,182.4
+2009,Columbia drainage region,Water discharge,v52461290,15.3,176.5
+2011,Columbia drainage region,Water discharge,v52461290,15.3,149.9
+2013,Columbia drainage region,Water discharge,v52461290,15.3,x
+2005,Yukon drainage region,Water intake,v52461291,16.1,0.9
+2007,Yukon drainage region,Water intake,v52461291,16.1,0.0
+2009,Yukon drainage region,Water intake,v52461291,16.1,0.0
+2011,Yukon drainage region,Water intake,v52461291,16.1,0.0
+2013,Yukon drainage region,Water intake,v52461291,16.1,0.0
+2005,Yukon drainage region,Water recirculation,v52461292,16.2,0.0
+2007,Yukon drainage region,Water recirculation,v52461292,16.2,x
+2009,Yukon drainage region,Water recirculation,v52461292,16.2,x
+2011,Yukon drainage region,Water recirculation,v52461292,16.2,0.0
+2013,Yukon drainage region,Water recirculation,v52461292,16.2,0.0
+2005,Yukon drainage region,Water discharge,v52461293,16.3,0.9
+2007,Yukon drainage region,Water discharge,v52461293,16.3,0.0
+2009,Yukon drainage region,Water discharge,v52461293,16.3,0.0
+2011,Yukon drainage region,Water discharge,v52461293,16.3,0.0
+2013,Yukon drainage region,Water discharge,v52461293,16.3,0.0
+2005,Peace - Athabasca drainage region,Water intake,v52461294,17.1,180.0
+2007,Peace - Athabasca drainage region,Water intake,v52461294,17.1,214.0
+2009,Peace - Athabasca drainage region,Water intake,v52461294,17.1,174.7
+2011,Peace - Athabasca drainage region,Water intake,v52461294,17.1,136.0
+2013,Peace - Athabasca drainage region,Water intake,v52461294,17.1,176.9
+2005,Peace - Athabasca drainage region,Water recirculation,v52461295,17.2,49.0
+2007,Peace - Athabasca drainage region,Water recirculation,v52461295,17.2,83.2
+2009,Peace - Athabasca drainage region,Water recirculation,v52461295,17.2,75.3
+2011,Peace - Athabasca drainage region,Water recirculation,v52461295,17.2,81.6
+2013,Peace - Athabasca drainage region,Water recirculation,v52461295,17.2,87.6
+2005,Peace - Athabasca drainage region,Water discharge,v52461296,17.3,158.2
+2007,Peace - Athabasca drainage region,Water discharge,v52461296,17.3,185.4
+2009,Peace - Athabasca drainage region,Water discharge,v52461296,17.3,166.9
+2011,Peace - Athabasca drainage region,Water discharge,v52461296,17.3,128.4
+2013,Peace - Athabasca drainage region,Water discharge,v52461296,17.3,171.7
+2005,Lower Mackenzie drainage region,Water intake,v52461297,18.1,F
+2007,Lower Mackenzie drainage region,Water intake,v52461297,18.1,x
+2009,Lower Mackenzie drainage region,Water intake,v52461297,18.1,0.0
+2011,Lower Mackenzie drainage region,Water intake,v52461297,18.1,0.0
+2013,Lower Mackenzie drainage region,Water intake,v52461297,18.1,x
+2005,Lower Mackenzie drainage region,Water recirculation,v52461298,18.2,F
+2007,Lower Mackenzie drainage region,Water recirculation,v52461298,18.2,x
+2009,Lower Mackenzie drainage region,Water recirculation,v52461298,18.2,x
+2011,Lower Mackenzie drainage region,Water recirculation,v52461298,18.2,0.0
+2013,Lower Mackenzie drainage region,Water recirculation,v52461298,18.2,x
+2005,Lower Mackenzie drainage region,Water discharge,v52461299,18.3,0.1
+2007,Lower Mackenzie drainage region,Water discharge,v52461299,18.3,x
+2009,Lower Mackenzie drainage region,Water discharge,v52461299,18.3,F
+2011,Lower Mackenzie drainage region,Water discharge,v52461299,18.3,0.0
+2013,Lower Mackenzie drainage region,Water discharge,v52461299,18.3,0.0
+2005,Arctic Coast - Islands drainage region,Water intake,v52461300,19.1,x
+2007,Arctic Coast - Islands drainage region,Water intake,v52461300,19.1,x
+2009,Arctic Coast - Islands drainage region,Water intake,v52461300,19.1,0.0
+2011,Arctic Coast - Islands drainage region,Water intake,v52461300,19.1,x
+2013,Arctic Coast - Islands drainage region,Water intake,v52461300,19.1,x
+2005,Arctic Coast - Islands drainage region,Water recirculation,v52461301,19.2,0.0
+2007,Arctic Coast - Islands drainage region,Water recirculation,v52461301,19.2,0.0
+2009,Arctic Coast - Islands drainage region,Water recirculation,v52461301,19.2,0.0
+2011,Arctic Coast - Islands drainage region,Water recirculation,v52461301,19.2,0.0
+2013,Arctic Coast - Islands drainage region,Water recirculation,v52461301,19.2,0.0
+2005,Arctic Coast - Islands drainage region,Water discharge,v52461302,19.3,x
+2007,Arctic Coast - Islands drainage region,Water discharge,v52461302,19.3,x
+2009,Arctic Coast - Islands drainage region,Water discharge,v52461302,19.3,0.0
+2011,Arctic Coast - Islands drainage region,Water discharge,v52461302,19.3,x
+2013,Arctic Coast - Islands drainage region,Water discharge,v52461302,19.3,x
+2005,Missouri drainage region,Water intake,v52461303,20.1,x
+2007,Missouri drainage region,Water intake,v52461303,20.1,x
+2009,Missouri drainage region,Water intake,v52461303,20.1,x
+2011,Missouri drainage region,Water intake,v52461303,20.1,0.0
+2013,Missouri drainage region,Water intake,v52461303,20.1,x
+2005,Missouri drainage region,Water recirculation,v52461304,20.2,0.0
+2007,Missouri drainage region,Water recirculation,v52461304,20.2,0.0
+2009,Missouri drainage region,Water recirculation,v52461304,20.2,0.0
+2011,Missouri drainage region,Water recirculation,v52461304,20.2,0.0
+2013,Missouri drainage region,Water recirculation,v52461304,20.2,0.0
+2005,Missouri drainage region,Water discharge,v52461305,20.3,x
+2007,Missouri drainage region,Water discharge,v52461305,20.3,x
+2009,Missouri drainage region,Water discharge,v52461305,20.3,x
+2011,Missouri drainage region,Water discharge,v52461305,20.3,0.0
+2013,Missouri drainage region,Water discharge,v52461305,20.3,x
+2005,North Saskatchewan drainage region,Water intake,v52461306,21.1,87.1
+2007,North Saskatchewan drainage region,Water intake,v52461306,21.1,85.6
+2009,North Saskatchewan drainage region,Water intake,v52461306,21.1,36.4
+2011,North Saskatchewan drainage region,Water intake,v52461306,21.1,46.7
+2013,North Saskatchewan drainage region,Water intake,v52461306,21.1,54.9
+2005,North Saskatchewan drainage region,Water recirculation,v52461307,21.2,x
+2007,North Saskatchewan drainage region,Water recirculation,v52461307,21.2,x
+2009,North Saskatchewan drainage region,Water recirculation,v52461307,21.2,5.3
+2011,North Saskatchewan drainage region,Water recirculation,v52461307,21.2,8.3
+2013,North Saskatchewan drainage region,Water recirculation,v52461307,21.2,58.4
+2005,North Saskatchewan drainage region,Water discharge,v52461308,21.3,53.3
+2007,North Saskatchewan drainage region,Water discharge,v52461308,21.3,55.0
+2009,North Saskatchewan drainage region,Water discharge,v52461308,21.3,17.0
+2011,North Saskatchewan drainage region,Water discharge,v52461308,21.3,21.6
+2013,North Saskatchewan drainage region,Water discharge,v52461308,21.3,23.4
+2005,South Saskatchewan drainage region,Water intake,v52461309,22.1,63.0
+2007,South Saskatchewan drainage region,Water intake,v52461309,22.1,85.5
+2009,South Saskatchewan drainage region,Water intake,v52461309,22.1,77.6
+2011,South Saskatchewan drainage region,Water intake,v52461309,22.1,55.4
+2013,South Saskatchewan drainage region,Water intake,v52461309,22.1,81.9
+2005,South Saskatchewan drainage region,Water recirculation,v52461310,22.2,10.8
+2007,South Saskatchewan drainage region,Water recirculation,v52461310,22.2,16.3
+2009,South Saskatchewan drainage region,Water recirculation,v52461310,22.2,8.8
+2011,South Saskatchewan drainage region,Water recirculation,v52461310,22.2,9.2
+2013,South Saskatchewan drainage region,Water recirculation,v52461310,22.2,11.2
+2005,South Saskatchewan drainage region,Water discharge,v52461311,22.3,27.6
+2007,South Saskatchewan drainage region,Water discharge,v52461311,22.3,40.2
+2009,South Saskatchewan drainage region,Water discharge,v52461311,22.3,35.3
+2011,South Saskatchewan drainage region,Water discharge,v52461311,22.3,25.7
+2013,South Saskatchewan drainage region,Water discharge,v52461311,22.3,46.8
+2005,Assiniboine - Red drainage region,Water intake,v52461312,23.1,25.3
+2007,Assiniboine - Red drainage region,Water intake,v52461312,23.1,59.3
+2009,Assiniboine - Red drainage region,Water intake,v52461312,23.1,39.1
+2011,Assiniboine - Red drainage region,Water intake,v52461312,23.1,27.5
+2013,Assiniboine - Red drainage region,Water intake,v52461312,23.1,39.2
+2005,Assiniboine - Red drainage region,Water recirculation,v52461313,23.2,12.9
+2007,Assiniboine - Red drainage region,Water recirculation,v52461313,23.2,26.7
+2009,Assiniboine - Red drainage region,Water recirculation,v52461313,23.2,F
+2011,Assiniboine - Red drainage region,Water recirculation,v52461313,23.2,97.4
+2013,Assiniboine - Red drainage region,Water recirculation,v52461313,23.2,26.7
+2005,Assiniboine - Red drainage region,Water discharge,v52461314,23.3,14.5
+2007,Assiniboine - Red drainage region,Water discharge,v52461314,23.3,47.4
+2009,Assiniboine - Red drainage region,Water discharge,v52461314,23.3,26.5
+2011,Assiniboine - Red drainage region,Water discharge,v52461314,23.3,14.1
+2013,Assiniboine - Red drainage region,Water discharge,v52461314,23.3,25.1
+2005,Winnipeg drainage region,Water intake,v52461315,24.1,x
+2007,Winnipeg drainage region,Water intake,v52461315,24.1,115.8
+2009,Winnipeg drainage region,Water intake,v52461315,24.1,x
+2011,Winnipeg drainage region,Water intake,v52461315,24.1,x
+2013,Winnipeg drainage region,Water intake,v52461315,24.1,x
+2005,Winnipeg drainage region,Water recirculation,v52461316,24.2,F
+2007,Winnipeg drainage region,Water recirculation,v52461316,24.2,x
+2009,Winnipeg drainage region,Water recirculation,v52461316,24.2,x
+2011,Winnipeg drainage region,Water recirculation,v52461316,24.2,x
+2013,Winnipeg drainage region,Water recirculation,v52461316,24.2,x
+2005,Winnipeg drainage region,Water discharge,v52461317,24.3,F
+2007,Winnipeg drainage region,Water discharge,v52461317,24.3,114.3
+2009,Winnipeg drainage region,Water discharge,v52461317,24.3,x
+2011,Winnipeg drainage region,Water discharge,v52461317,24.3,x
+2013,Winnipeg drainage region,Water discharge,v52461317,24.3,x
+2005,Lower Saskatchewan - Nelson drainage region,Water intake,v52461318,25.1,F
+2007,Lower Saskatchewan - Nelson drainage region,Water intake,v52461318,25.1,x
+2009,Lower Saskatchewan - Nelson drainage region,Water intake,v52461318,25.1,54.9
+2011,Lower Saskatchewan - Nelson drainage region,Water intake,v52461318,25.1,78.5
+2013,Lower Saskatchewan - Nelson drainage region,Water intake,v52461318,25.1,29.6
+2005,Lower Saskatchewan - Nelson drainage region,Water recirculation,v52461319,25.2,F
+2007,Lower Saskatchewan - Nelson drainage region,Water recirculation,v52461319,25.2,x
+2009,Lower Saskatchewan - Nelson drainage region,Water recirculation,v52461319,25.2,22.0
+2011,Lower Saskatchewan - Nelson drainage region,Water recirculation,v52461319,25.2,10.4
+2013,Lower Saskatchewan - Nelson drainage region,Water recirculation,v52461319,25.2,x
+2005,Lower Saskatchewan - Nelson drainage region,Water discharge,v52461320,25.3,F
+2007,Lower Saskatchewan - Nelson drainage region,Water discharge,v52461320,25.3,x
+2009,Lower Saskatchewan - Nelson drainage region,Water discharge,v52461320,25.3,54.9
+2011,Lower Saskatchewan - Nelson drainage region,Water discharge,v52461320,25.3,64.8
+2013,Lower Saskatchewan - Nelson drainage region,Water discharge,v52461320,25.3,29.1
+2005,Churchill drainage region,Water intake,v52461321,26.1,x
+2007,Churchill drainage region,Water intake,v52461321,26.1,x
+2009,Churchill drainage region,Water intake,v52461321,26.1,x
+2011,Churchill drainage region,Water intake,v52461321,26.1,x
+2013,Churchill drainage region,Water intake,v52461321,26.1,x
+2005,Churchill drainage region,Water recirculation,v52461322,26.2,x
+2007,Churchill drainage region,Water recirculation,v52461322,26.2,x
+2009,Churchill drainage region,Water recirculation,v52461322,26.2,x
+2011,Churchill drainage region,Water recirculation,v52461322,26.2,x
+2013,Churchill drainage region,Water recirculation,v52461322,26.2,x
+2005,Churchill drainage region,Water discharge,v52461323,26.3,x
+2007,Churchill drainage region,Water discharge,v52461323,26.3,x
+2009,Churchill drainage region,Water discharge,v52461323,26.3,x
+2011,Churchill drainage region,Water discharge,v52461323,26.3,x
+2013,Churchill drainage region,Water discharge,v52461323,26.3,x
+2005,Keewatin - Southern Baffin drainage region,Water intake,v52461324,27.1,F
+2007,Keewatin - Southern Baffin drainage region,Water intake,v52461324,27.1,0.0
+2009,Keewatin - Southern Baffin drainage region,Water intake,v52461324,27.1,x
+2011,Keewatin - Southern Baffin drainage region,Water intake,v52461324,27.1,x
+2013,Keewatin - Southern Baffin drainage region,Water intake,v52461324,27.1,x
+2005,Keewatin - Southern Baffin drainage region,Water recirculation,v52461325,27.2,0.0
+2007,Keewatin - Southern Baffin drainage region,Water recirculation,v52461325,27.2,0.0
+2009,Keewatin - Southern Baffin drainage region,Water recirculation,v52461325,27.2,0.0
+2011,Keewatin - Southern Baffin drainage region,Water recirculation,v52461325,27.2,0.0
+2013,Keewatin - Southern Baffin drainage region,Water recirculation,v52461325,27.2,0.0
+2005,Keewatin - Southern Baffin drainage region,Water discharge,v52461326,27.3,F
+2007,Keewatin - Southern Baffin drainage region,Water discharge,v52461326,27.3,0.0
+2009,Keewatin - Southern Baffin drainage region,Water discharge,v52461326,27.3,x
+2011,Keewatin - Southern Baffin drainage region,Water discharge,v52461326,27.3,x
+2013,Keewatin - Southern Baffin drainage region,Water discharge,v52461326,27.3,x
+2005,Northern Ontario drainage region,Water intake,v52461327,28.1,x
+2007,Northern Ontario drainage region,Water intake,v52461327,28.1,73.5
+2009,Northern Ontario drainage region,Water intake,v52461327,28.1,74.9
+2011,Northern Ontario drainage region,Water intake,v52461327,28.1,50.1
+2013,Northern Ontario drainage region,Water intake,v52461327,28.1,42.8
+2005,Northern Ontario drainage region,Water recirculation,v52461328,28.2,x
+2007,Northern Ontario drainage region,Water recirculation,v52461328,28.2,x
+2009,Northern Ontario drainage region,Water recirculation,v52461328,28.2,x
+2011,Northern Ontario drainage region,Water recirculation,v52461328,28.2,x
+2013,Northern Ontario drainage region,Water recirculation,v52461328,28.2,x
+2005,Northern Ontario drainage region,Water discharge,v52461329,28.3,x
+2007,Northern Ontario drainage region,Water discharge,v52461329,28.3,74.0
+2009,Northern Ontario drainage region,Water discharge,v52461329,28.3,77.4
+2011,Northern Ontario drainage region,Water discharge,v52461329,28.3,42.0
+2013,Northern Ontario drainage region,Water discharge,v52461329,28.3,29.7
+2005,Northern Quebec drainage region,Water intake,v52461330,29.1,x
+2007,Northern Quebec drainage region,Water intake,v52461330,29.1,9.1
+2009,Northern Quebec drainage region,Water intake,v52461330,29.1,7.7
+2011,Northern Quebec drainage region,Water intake,v52461330,29.1,x
+2013,Northern Quebec drainage region,Water intake,v52461330,29.1,x
+2005,Northern Quebec drainage region,Water recirculation,v52461331,29.2,x
+2007,Northern Quebec drainage region,Water recirculation,v52461331,29.2,x
+2009,Northern Quebec drainage region,Water recirculation,v52461331,29.2,1.7
+2011,Northern Quebec drainage region,Water recirculation,v52461331,29.2,x
+2013,Northern Quebec drainage region,Water recirculation,v52461331,29.2,x
+2005,Northern Quebec drainage region,Water discharge,v52461332,29.3,x
+2007,Northern Quebec drainage region,Water discharge,v52461332,29.3,8.5
+2009,Northern Quebec drainage region,Water discharge,v52461332,29.3,7.0
+2011,Northern Quebec drainage region,Water discharge,v52461332,29.3,x
+2013,Northern Quebec drainage region,Water discharge,v52461332,29.3,x
+2005,Great Lakes drainage region,Water intake,v52461333,30.1,2182.2
+2007,Great Lakes drainage region,Water intake,v52461333,30.1,2502.3
+2009,Great Lakes drainage region,Water intake,v52461333,30.1,2135.4
+2011,Great Lakes drainage region,Water intake,v52461333,30.1,1344.7
+2013,Great Lakes drainage region,Water intake,v52461333,30.1,1376.8
+2005,Great Lakes drainage region,Water recirculation,v52461334,30.2,1343.4
+2007,Great Lakes drainage region,Water recirculation,v52461334,30.2,1809.0
+2009,Great Lakes drainage region,Water recirculation,v52461334,30.2,1404.0
+2011,Great Lakes drainage region,Water recirculation,v52461334,30.2,920.2
+2013,Great Lakes drainage region,Water recirculation,v52461334,30.2,1300.7
+2005,Great Lakes drainage region,Water discharge,v52461335,30.3,1856.8
+2007,Great Lakes drainage region,Water discharge,v52461335,30.3,2286.6
+2009,Great Lakes drainage region,Water discharge,v52461335,30.3,1930.3
+2011,Great Lakes drainage region,Water discharge,v52461335,30.3,1142.8
+2013,Great Lakes drainage region,Water discharge,v52461335,30.3,1189.4
+2005,Ottawa drainage region,Water intake,v52461336,31.1,259.7
+2007,Ottawa drainage region,Water intake,v52461336,31.1,..
+2009,Ottawa drainage region,Water intake,v52461336,31.1,..
+2011,Ottawa drainage region,Water intake,v52461336,31.1,149.9
+2013,Ottawa drainage region,Water intake,v52461336,31.1,134.1
+2005,Ottawa drainage region,Water recirculation,v52461337,31.2,41.0
+2007,Ottawa drainage region,Water recirculation,v52461337,31.2,..
+2009,Ottawa drainage region,Water recirculation,v52461337,31.2,..
+2011,Ottawa drainage region,Water recirculation,v52461337,31.2,18.8
+2013,Ottawa drainage region,Water recirculation,v52461337,31.2,30.9
+2005,Ottawa drainage region,Water discharge,v52461338,31.3,244.2
+2007,Ottawa drainage region,Water discharge,v52461338,31.3,..
+2009,Ottawa drainage region,Water discharge,v52461338,31.3,..
+2011,Ottawa drainage region,Water discharge,v52461338,31.3,150.4
+2013,Ottawa drainage region,Water discharge,v52461338,31.3,148.2
+2005,St. Lawrence drainage region,Water intake,v52461339,32.1,801.6
+2007,St. Lawrence drainage region,Water intake,v52461339,32.1,..
+2009,St. Lawrence drainage region,Water intake,v52461339,32.1,..
+2011,St. Lawrence drainage region,Water intake,v52461339,32.1,620.1
+2013,St. Lawrence drainage region,Water intake,v52461339,32.1,724.0
+2005,St. Lawrence drainage region,Water recirculation,v52461340,32.2,692.2
+2007,St. Lawrence drainage region,Water recirculation,v52461340,32.2,..
+2009,St. Lawrence drainage region,Water recirculation,v52461340,32.2,..
+2011,St. Lawrence drainage region,Water recirculation,v52461340,32.2,416.7
+2013,St. Lawrence drainage region,Water recirculation,v52461340,32.2,646.4
+2005,St. Lawrence drainage region,Water discharge,v52461341,32.3,747.0
+2007,St. Lawrence drainage region,Water discharge,v52461341,32.3,..
+2009,St. Lawrence drainage region,Water discharge,v52461341,32.3,..
+2011,St. Lawrence drainage region,Water discharge,v52461341,32.3,542.4
+2013,St. Lawrence drainage region,Water discharge,v52461341,32.3,685.6
+2005,North Shore - Gaspé drainage region,Water intake,v52461342,33.1,205.8
+2007,North Shore - Gaspé drainage region,Water intake,v52461342,33.1,128.9
+2009,North Shore - Gaspé drainage region,Water intake,v52461342,33.1,129.3
+2011,North Shore - Gaspé drainage region,Water intake,v52461342,33.1,87.6
+2013,North Shore - Gaspé drainage region,Water intake,v52461342,33.1,89.4
+2005,North Shore - Gaspé drainage region,Water recirculation,v52461343,33.2,51.7
+2007,North Shore - Gaspé drainage region,Water recirculation,v52461343,33.2,45.6
+2009,North Shore - Gaspé drainage region,Water recirculation,v52461343,33.2,47.9
+2011,North Shore - Gaspé drainage region,Water recirculation,v52461343,33.2,33.8
+2013,North Shore - Gaspé drainage region,Water recirculation,v52461343,33.2,31.0
+2005,North Shore - Gaspé drainage region,Water discharge,v52461344,33.3,195.8
+2007,North Shore - Gaspé drainage region,Water discharge,v52461344,33.3,128.7
+2009,North Shore - Gaspé drainage region,Water discharge,v52461344,33.3,128.7
+2011,North Shore - Gaspé drainage region,Water discharge,v52461344,33.3,88.4
+2013,North Shore - Gaspé drainage region,Water discharge,v52461344,33.3,89.1
+2005,Saint John - St. Croix drainage region,Water intake,v52461345,34.1,134.5
+2007,Saint John - St. Croix drainage region,Water intake,v52461345,34.1,126.9
+2009,Saint John - St. Croix drainage region,Water intake,v52461345,34.1,135.9
+2011,Saint John - St. Croix drainage region,Water intake,v52461345,34.1,132.9
+2013,Saint John - St. Croix drainage region,Water intake,v52461345,34.1,136.8
+2005,Saint John - St. Croix drainage region,Water recirculation,v52461346,34.2,x
+2007,Saint John - St. Croix drainage region,Water recirculation,v52461346,34.2,59.9
+2009,Saint John - St. Croix drainage region,Water recirculation,v52461346,34.2,54.3
+2011,Saint John - St. Croix drainage region,Water recirculation,v52461346,34.2,48.0
+2013,Saint John - St. Croix drainage region,Water recirculation,v52461346,34.2,42.0
+2005,Saint John - St. Croix drainage region,Water discharge,v52461347,34.3,132.8
+2007,Saint John - St. Croix drainage region,Water discharge,v52461347,34.3,118.2
+2009,Saint John - St. Croix drainage region,Water discharge,v52461347,34.3,131.0
+2011,Saint John - St. Croix drainage region,Water discharge,v52461347,34.3,129.5
+2013,Saint John - St. Croix drainage region,Water discharge,v52461347,34.3,129.8
+2005,Maritime Coastal drainage region,Water intake,v52461348,35.1,236.1
+2007,Maritime Coastal drainage region,Water intake,v52461348,35.1,225.8
+2009,Maritime Coastal drainage region,Water intake,v52461348,35.1,285.0
+2011,Maritime Coastal drainage region,Water intake,v52461348,35.1,232.1
+2013,Maritime Coastal drainage region,Water intake,v52461348,35.1,244.5
+2005,Maritime Coastal drainage region,Water recirculation,v52461349,35.2,47.5
+2007,Maritime Coastal drainage region,Water recirculation,v52461349,35.2,114.4
+2009,Maritime Coastal drainage region,Water recirculation,v52461349,35.2,110.0
+2011,Maritime Coastal drainage region,Water recirculation,v52461349,35.2,64.5
+2013,Maritime Coastal drainage region,Water recirculation,v52461349,35.2,74.1
+2005,Maritime Coastal drainage region,Water discharge,v52461350,35.3,198.1
+2007,Maritime Coastal drainage region,Water discharge,v52461350,35.3,204.0
+2009,Maritime Coastal drainage region,Water discharge,v52461350,35.3,272.0
+2011,Maritime Coastal drainage region,Water discharge,v52461350,35.3,212.8
+2013,Maritime Coastal drainage region,Water discharge,v52461350,35.3,216.8
+2005,Newfoundland - Labrador drainage region,Water intake,v52461351,36.1,85.2
+2007,Newfoundland - Labrador drainage region,Water intake,v52461351,36.1,63.7
+2009,Newfoundland - Labrador drainage region,Water intake,v52461351,36.1,12.7
+2011,Newfoundland - Labrador drainage region,Water intake,v52461351,36.1,15.5
+2013,Newfoundland - Labrador drainage region,Water intake,v52461351,36.1,19.0
+2005,Newfoundland - Labrador drainage region,Water recirculation,v52461352,36.2,F
+2007,Newfoundland - Labrador drainage region,Water recirculation,v52461352,36.2,x
+2009,Newfoundland - Labrador drainage region,Water recirculation,v52461352,36.2,x
+2011,Newfoundland - Labrador drainage region,Water recirculation,v52461352,36.2,0.1
+2013,Newfoundland - Labrador drainage region,Water recirculation,v52461352,36.2,0.2
+2005,Newfoundland - Labrador drainage region,Water discharge,v52461353,36.3,79.8
+2007,Newfoundland - Labrador drainage region,Water discharge,v52461353,36.3,63.1
+2009,Newfoundland - Labrador drainage region,Water discharge,v52461353,36.3,13.0
+2011,Newfoundland - Labrador drainage region,Water discharge,v52461353,36.3,15.5
+2013,Newfoundland - Labrador drainage region,Water discharge,v52461353,36.3,18.8
